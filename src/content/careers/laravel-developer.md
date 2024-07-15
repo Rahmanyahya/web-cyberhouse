@@ -1,5 +1,5 @@
 ---
-title: "Laravel Developer"
+title: " Cyber Security Defenses"
 excerpt: Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam lorem amet eget in netus laoreet
 location: San Francisco
 categories: ["developer"]

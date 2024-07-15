@@ -1,5 +1,5 @@
 ---
-title: "Head Design"
+title: "Cyber Security Domain & Team Classification"
 excerpt: Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam lorem amet eget in netus laoreet
 job_nature: "Remote"
 location: San Francisco
