@@ -73,6 +73,6 @@ members:
       image: "/images/users/zulfa.png"
     - name: Adam Aria Rahman
       field: Human Resource and Graphic Designer
-      image: "/images/users/user-3.png"
+      image: "/images/users/adam.png"
 ---
  Program pelatihan intensif yang mempersiapkan peserta dalam keamanan siber, blockchain, dan web 3. Dengan kurikulum praktis, proyek nyata, dan bimbingan instruktur berpengalaman, peserta menguasai keterampilan teknis yang diperlukan di industri teknologi. Program ini juga menawarkan dukungan karir untuk membantu peserta segera mendapatkan pekerjaan.
