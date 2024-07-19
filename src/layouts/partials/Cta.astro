@@ -4,7 +4,6 @@ import config from "@/config/config.json";
 const {
   call_to_action: {
     title,
-    description,
     button: { label, link },
   },
 } = config;
@@ -20,11 +19,6 @@ const {
           <div class="lg:col-7">
             <h2 class="h1 text-white">{title}</h2>
             <a class="btn btn-white mt-8" href={link}>{label}</a>
-          </div>
-          <div class="mt-8 lg:col-5 lg:mt-0">
-            <p class="text-white">
-              {description}
-            </p>
           </div>
         </div>
       </div>
