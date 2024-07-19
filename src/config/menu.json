@@ -18,32 +18,26 @@
           "url": "/career"
         },
 
+         {
+          "name": "Blockchain Course",
+          "url": "/Blockchain"
+        },
+
+         {
+          "name": "Web 3 Course",
+          "url": "/Web3"
+        },
+
         {
           "name": "Consultant",
           "url": "/integrations"
         },
-
-        {
-          "name": "Pricing",
-          "url": "/pricing"
-        },
         {
           "name": "Sign In",
           "url": "/signin"
-        },
-
-        {
-          "name": "Elements",
-          "url": "/elements"
-        },
-        {
-          "name": "Changelog",
-          "url": "/changelog"
-        },
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
         }
+
+       
       ]
     },
     {
