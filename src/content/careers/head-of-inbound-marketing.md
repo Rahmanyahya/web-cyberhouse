@@ -1,6 +1,6 @@
 ---
 title: Malware & Ransomware
-excerpt: Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam lorem amet eget in netus laoreet
+excerpt: Kursus ini memberikan pemahaman tentang cara kerja malware dan ransomware beserta sistem dibaliknnya sehingga siswa dapat memahami dengan baik
 job_nature: "Full Time"
 location: San Francisco
 categories: ["marketing"]
@@ -8,38 +8,47 @@ date: 2021-07-12
 draft: false
 ---
 
-### What Is the role?
+### Perkenalan
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt management, investments. You’ll be on the front lines helping clients in what is arguably the most important position at the company.
+Malware & Ransomware adalah jenis perangkat lunak berbahaya yang dirancang untuk merusak, mengakses, atau mencuri data dari sistem komputer. Malware adalah istilah umum untuk perangkat lunak berbahaya, sedangkan ransomware adalah jenis malware yang mengenkripsi data dan menuntut tebusan untuk membuka kunci.
 
-### About you
 
-We are especially interested in finding developers with experience either building web APIs with Go or experience with functional programming (e.g. Elixir, NodeJS, Clojure, F#). You might not have experience with all the technologies in our stack, but you are motivated to learn deeply. You will get the opportunity to work with both Go and Elixir with experienced team mates who can teach and pair with you to learn whatever you have less experience with.You care about security, code quality, scalability, performance, and simplicity. Above all, you seek operational excellence and apply the best engineering practices possible. Not everything that you or your team do can be perfect, but you make sure that you always know the trade-offs.
+### Kurikulum
 
-### Your Role
+1. Jenis Malware: Virus, worm, trojan, spyware, adware.
 
-Users of Conclude
+2. Ransomware: Cara kerja ransomware, enkripsi data, dan metode dekripsi.
+Deteksi dan Pencegahan: Teknik dan alat untuk mendeteksi dan mencegah serangan malware dan ransomware.
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+3. Respon Insiden: Langkah-langkah yang harus diambil jika terinfeksi malware atau ransomware.
 
-### Responsibilities
+### Alat
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+- Antivirus dan Antimalware: Malwarebytes, Norton, Kaspersky.
 
-### Requirements
+- Alat Analisis Forensik: FTK Imager, EnCase.
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt
+- Platform Pemantauan: Snort, Suricata.
 
-### We offer you
+### Persyaratan
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions requests for agreement.
-- Send emails about our Site or respond to inquiries.
-- Send emails and updates about Conclude, including news and requests for agreement to amended legal documents such.
-- As this Privacy Policy and our Terms of Service.
+
+- Pengetahuan Dasar Keamanan Komputer: Memahami cara kerja malware dan teknik dasar pencegahan.
+
+-Keterampilan Analisis: Kemampuan untuk menganalisis dan merespons serangan malware.
+
+- Pengalaman Praktis: Terlibat dalam simulasi atau latihan tentang penanganan malware.
+
+
+### Benefit
+
+- Materi pembelajaran yang komprehensif dan terstruktur
+
+- Akses ke lab kriptografi dan hashing untuk latihan praktis
+
+- Kuis dan latihan untuk menguji pengetahuan Anda
+
+- Dukungan dari instruktur berpengalaman
+Sertifikat penyelesaian setelah menyelesaikan kursus
+
+- Komunitas belajar untuk berdiskusi dan berbagi pengetahuan

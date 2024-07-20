@@ -1,45 +1,50 @@
 ---
 title: "Cyber Security Domain & Team Classification"
-excerpt: Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam lorem amet eget in netus laoreet
+excerpt: Kursus ini menjelaskan peran tim dalam klasifikasi domain Cyber Scurity.
 job_nature: "Remote"
-location: San Francisco
+location: Indonesia
 categories: ["developer"]
 date: 2021-07-13
 draft: false
 ---
 
-### What Is the role?
+### Perkenalan
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt management, investments. You’ll be on the front lines helping clients in what is arguably the most important position at the company.
+Cyber Security Domain & Team Classification merujuk pada berbagai area atau domain dalam keamanan siber dan peran serta tanggung jawab tim yang terlibat dalam masing-masing domain tersebut. Ini mencakup pembagian tugas dan spesialisasi yang diperlukan untuk melindungi sistem dan data.
 
-### About you
+### Kurikulum
 
-We are especially interested in finding developers with experience either building web APIs with Go or experience with functional programming (e.g. Elixir, NodeJS, Clojure, F#). You might not have experience with all the technologies in our stack, but you are motivated to learn deeply. You will get the opportunity to work with both Go and Elixir with experienced team mates who can teach and pair with you to learn whatever you have less experience with.You care about security, code quality, scalability, performance, and simplicity. Above all, you seek operational excellence and apply the best engineering practices possible. Not everything that you or your team do can be perfect, but you make sure that you always know the trade-offs.
+- Domain Keamanan Siber: Infrastruktur keamanan, keamanan aplikasi, keamanan data, dan keamanan operasional.
 
-### Your Role
+- Klasifikasi Tim Keamanan: Tim respon insiden, tim analisis ancaman, tim keamanan aplikasi, dan tim kepatuhan.
 
-Users of Conclude
+- Peran dan Tanggung Jawab: Tugas spesifik dan fungsi masing-masing peran dalam tim keamanan siber.
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+### Tools
 
-### Responsibilities
+- Diagramming Tools: Microsoft Visio, Lucidchart (untuk memetakan struktur tim dan domain).
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+- Platform Manajemen Keamanan: Splunk, SIEM (Security Information and Event Management) tools.
 
-### Requirements
+- Alat Kolaborasi Tim: Slack, Microsoft Teams.
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt
+### Syarat
 
-### We offer you
+- Pengetahuan Dasar Keamanan Siber: Memahami dasar-dasar keamanan siber dan konsep-konsep utamanya.
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions requests for agreement.
-- Send emails about our Site or respond to inquiries.
-- Send emails and updates about Conclude, including news and requests for agreement to amended legal documents such.
-- As this Privacy Policy and our Terms of Service.
+- Keterampilan Manajemen Proyek: Kemampuan untuk mengelola dan mengkoordinasikan berbagai fungsi tim.
+
+- Pengalaman Praktis: Terlibat dalam proyek keamanan atau peran terkait untuk memahami struktur tim.
+
+### Benefit
+
+- Materi pembelajaran yang komprehensif dan terstruktur
+
+- Akses ke lab kriptografi dan hashing untuk latihan praktis
+
+- Kuis dan latihan untuk menguji pengetahuan Anda
+
+- Dukungan dari instruktur berpengalaman
+Sertifikat penyelesaian setelah menyelesaikan kursus
+
+- Komunitas belajar untuk berdiskusi dan berbagi pengetahuan

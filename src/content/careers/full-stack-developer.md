@@ -1,45 +1,64 @@
 ---
-title: "Network Security"
-excerpt: Lorem ipsum dolor sit amet consectetur adipiscing elit aliquam lorem amet eget in netus laoreet
+title: "Network Scurity"
+excerpt: Kursus ini memberikan pemahaman mendalam tentang dasar-dasar keamanan jaringan.
 job_nature: "Full Time"
-location: San Francisco
+location: Indonesia
 categories: ["developer"]
 date: 2021-07-10
 draft: false
 ---
 
-### What Is the role?
+### Perkenalan
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt management, investments. You’ll be on the front lines helping clients in what is arguably the most important position at the company.
+Network Scurity adalah praktik untuk melindungi integritas, kerahasiaan, dan ketersediaan data dan sumber daya dalam jaringan komputer dari ancaman dan serangan. Ini melibatkan serangkaian langkah dan teknologi yang dirancang untuk melindungi jaringan dari akses tidak sah, penyalahgunaan, dan gangguan.
 
-### About you
 
-We are especially interested in finding developers with experience either building web APIs with Go or experience with functional programming (e.g. Elixir, NodeJS, Clojure, F#). You might not have experience with all the technologies in our stack, but you are motivated to learn deeply. You will get the opportunity to work with both Go and Elixir with experienced team mates who can teach and pair with you to learn whatever you have less experience with.You care about security, code quality, scalability, performance, and simplicity. Above all, you seek operational excellence and apply the best engineering practices possible. Not everything that you or your team do can be perfect, but you make sure that you always know the trade-offs.
+### Kurikulum
 
-### Your Role
+Aspek Network Scurity Yang Akan Dipelajari
 
-Users of Conclude
+1. Firewall: Perangkat atau aplikasi yang memantau dan mengendalikan lalu lintas jaringan berdasarkan aturan keamanan yang ditetapkan.
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+2. Intrusion Detection and Prevention Systems (IDPS): Sistem yang memonitor lalu lintas jaringan untuk mendeteksi dan merespons potensi ancaman.
 
-### Responsibilities
+3. Virtual Private Networks (VPNs): Teknologi yang mengenkripsi data yang dikirim melalui internet, menciptakan koneksi yang aman antara pengguna dan jaringan.
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+4. Antivirus dan Antimalware: Program yang dirancang untuk mendeteksi, mencegah, dan menghapus perangkat lunak berbahaya.
 
-### Requirements
+5. Access Control: Pengaturan hak akses untuk memastikan bahwa hanya pengguna yang berwenang yang dapat mengakses informasi tertentu dalam jaringan.
 
-We are looking for a personal financial planning pro (Certified Financial Planner™ preferred) who will lead our client advising efforts. You will be a fiduciary who works with clients providing holistic advice on areas including: saving, retirement, debt
+6. Encryption: Proses mengubah data menjadi format yang tidak dapat dibaca tanpa kunci dekripsi, untuk melindungi data saat dikirim atau disimpan.
 
-### We offer you
+7. Network Segmentation: Pembagian jaringan menjadi beberapa segmen untuk membatasi dampak potensi serangan dan meningkatkan keamanan.
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions requests for agreement.
-- Send emails about our Site or respond to inquiries.
-- Send emails and updates about Conclude, including news and requests for agreement to amended legal documents such.
-- As this Privacy Policy and our Terms of Service.
+8. Security Policies and Procedures: Prosedur dan kebijakan yang mengatur penggunaan dan perlindungan jaringan untuk memastikan keamanan yang konsisten dan terkelola dengan baik.
+
+### Alat
+
+- Wireshark: Alat analisis jaringan yang digunakan untuk menangkap dan menganalisis lalu lintas jaringan secara mendetail.
+
+- Nmap: Utilitas pemindai jaringan yang membantu dalam memetakan jaringan dan mengidentifikasi perangkat serta layanan yang berjalan di dalamnya
+
+- Metasploit: Kerangka kerja untuk pengujian penetrasi yang memungkinkan pengguna untuk mengeksploitasi kerentanan jaringan dan sistem
+
+- Snort: Sistem deteksi dan pencegahan intrusi (IDS/IPS) open-source yang digunakan untuk memantau dan menganalisis lalu lintas jaringan
+
+- Kali Linux: Distribusi Linux khusus untuk keamanan siber dan pengujian penetrasi, dilengkapi dengan berbagai alat keamanan.
+
+### Persyaratan
+
+
+Untuk belajar keamanan jaringan (network security), Anda perlu memiliki pengetahuan dasar tentang teknologi informasi, termasuk sistem operasi dan konsep jaringan seperti protokol TCP/IP dan perangkat jaringan. Keterampilan teknis seperti pemrograman dasar dan penggunaan alat keamanan seperti firewall, IDS/IPS, serta teknik enkripsi juga penting. 
+
+### Benefit
+
+- Materi pembelajaran yang komprehensif dan terstruktur
+
+- Akses ke lab kriptografi dan hashing untuk latihan praktis
+
+- Kuis dan latihan untuk menguji pengetahuan Anda
+
+- Dukungan dari instruktur berpengalaman
+Sertifikat penyelesaian setelah menyelesaikan kursus
+
+- Komunitas belajar untuk berdiskusi dan berbagi pengetahuan

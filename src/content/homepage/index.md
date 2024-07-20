@@ -4,13 +4,13 @@ banner:
   content: "Kuasai Keamanan Siber, Blockchain, dan Web 3.0 dalam 12 minggu dengan bootcamp intensif kami. Jadilah inovator teknologi masa depan!"
   image: /images/banner-img.png
   button:
-    label: Join our Discord
+    label: Gabung Discord Kami
     link: "https://discord.gg/bdvRTUEs"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Course"
+  title: "Yang anda dapatkan di kursus kami"
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
       title: Proyek nyata
@@ -26,15 +26,15 @@ key_features:
 service:
   homepage_tab:
     title: Coba kelas gratis kami dan rasakan dampaknya!
-    description: Tingkatkan keterampilan Anda dengan bimbingan para ahli dan bergabunglah dengan komunitas pembelajar yang aktif..
+    description: Tingkatkan keterampilan Anda dengan bimbingan para ahli dan bergabunglah dengan komunitas pembelajar yang aktif.
     tab_list:
-        - title: Materi yang mudah dimengerti oleh pemula
+        - title: Kurikulum terstruktur dan materi yan komprehensif
           icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
-        - title: Materi berdasar dari studi kasus
+        - title: Real Study Case untuk portfolio
           icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/collaboration.png"
-        - title: Materi yang up-to-date
+        - title: Komunitas sebagain wadah diskusi
           icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
           image: "/images/sells-by-country.png"
 
@@ -49,51 +49,51 @@ service:
 
 #testimonial
 testimonial:
-  title: Our customers have nice things to say about us
+  title: Pendapat Customers Kami
   testimonial_list:
     - author: Tari Putri
       avatar: "/images/users/user-5.png"
       organization: SMK 2 Bandung
       rating: four
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Cyber House menyediakan pelatihan intensif yang sangat berguna untuk mengasah keterampilan Cyber Scurity.
     - author: Rizki Syatya
       avatar: "/images/users/user-6.png"
       organization: Mahasiswa UNS
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Instruktur di Bottcamp Cyber House sangat berpengalaman dan memberikan penjelasan yang mudah dipahami.
     - author: Kira Diana
       avatar: "/images/users/user-2.png"
       organization: SMK 1 Purwakarta
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Materi yang diajarkan di Bottcamp Cyber House sangat relevan dengan kebutuhan industri saat ini.
     - author: Ibnu Pangeran
       avatar: "/images/users/user-3.png"
       organization: Mahasiswa 
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Materi yang diajarkan di Bottcamp Cyber House sangat relevan dengan kebutuhan industri saat ini.
     - author: Firli Yani
       avatar: "/images/users/user-4.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Bottcamp Cyber House memiliki suasana belajar yang kondusif, mendukung dan materi belajar berstandar industri
     - author: Tika Intan
       avatar: "/images/users/user-1.png"
       organization: meta limited
       rating: three
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Cyber House memberi pelajaran praktek langsung, sehingga lebih siap menghadapi tantangan di dunia nyata.
     - author: Fathir Akbar
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Kurikulum di Bottcamp Cyber House selalu diperbarui sesuai dengan perkembangan terbaru di bidang keamanan siber.
     - author: Raka Putra
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Fasilitas di Bottcamp Cyber House sangat memadai untuk mendukung proses belajar mengajar.
     - author: Kaya Insan
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Our platform helps build secure onboarding authentica experiences & engage your users. We build .
+      content: Bottcamp Cyber House membantu peserta membangun jaringan profesional yang luas di industri keamanan siber.
 ---

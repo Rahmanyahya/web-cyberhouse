@@ -1,5 +1,5 @@
 ---
-title: "Cyber Security Introduction"
+title: "Cyber Scurity Introduction"
 excerpt: Kursus ini memberikan pemahaman mendalam tentang dasar-dasar keamanan siber.
 job_nature: "6 atau 12 bulan"
 location: Indonesia
@@ -7,11 +7,11 @@ categories: ["beginner"]
 draft: false
 ---
 
-### Introduction
+### Perkenalan
 
 Kursus "Cyber Security Introduction" ini dirancang untuk memberikan pemahaman mendalam tentang dasar-dasar keamanan siber. Anda akan mempelajari konsep utama seperti Triad CIA (kerahasiaan, integritas, ketersediaan), model lapisan OSI, manajemen akses identitas, dan tata kelola keamanan berdasarkan standar internasional seperti ISO27001, GDPR, HIPAA, OWASP, PCI DSS, dan NIST. Kursus ini juga mencakup dasar-dasar kriptografi dan hashing, serta latihan di laboratorium.
 
-### Curriculum
+### Kurikulum
 Intro to Cyber Security
 1. The CIA Triad
 2. OSI Layer
@@ -21,7 +21,7 @@ Intro to Cyber Security
 6. Hashing
 7. Quiz & Practice: Lab Cryptography and Lab Hashing
 
-### Tools you need
+### Alat yang dibutuhkan
 
 - Komputer atau laptop dengan koneksi internet yang stabil
 - Sistem operasi yang kompatibel (Windows, macOS, Linux)
@@ -30,7 +30,7 @@ Intro to Cyber Security
 - Text editor (seperti Visual Studio Code atau Sublime Text)
 - Browser web terbaru (Chrome, Firefox, atau Safari)
 
-### Requirements
+### Persyaratan
 
 - Pengetahuan dasar tentang komputer dan jaringan
 - Kemampuan dasar dalam menggunakan sistem operasi
@@ -38,7 +38,7 @@ Intro to Cyber Security
 - Komitmen waktu untuk menyelesaikan latihan dan kuis
 - Kemampuan berpikir analitis dan pemecahan masalah
 
-### We offer you
+### Benefit
 
 - Materi pembelajaran yang komprehensif dan terstruktur
 - Akses ke lab kriptografi dan hashing untuk latihan praktis

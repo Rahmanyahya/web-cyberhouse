@@ -1,37 +1,37 @@
 ---
 title: "About"
-page_title: "About our company"
+page_title: "Tentang Perusahaan Kami"
 buttons:
-  - label: Get know about us
+  - label: Ketahui tentang kami
     link: "https://www.instagram.com/cyberhouse.id/"
     enable: true
-  - label: Learn More
+  - label: Pelajari
     link: "#"
     outline: true
     enable: true
 
 # counter
 counter:
-  - name: "Course"
+  - name: "Kursus"
     number: 20
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
+  - name: "Pelanggan"
     number: 440
     messurment: M
     color: "#5EE2A0"
-  - name: "Companies"
+  - name: "Perusahaan"
     number: 50
     messurment: K
     color: "#FE6019"
-  - name: "Student who already have a job"
+  - name: "Siswa Yang Siap Bekerja"
     number: 20
     messurment: K
     color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal!
+  title: Kami memulai dengan satu tujuan!
   images:
     - "/images/about/gallery-img-1.png"
     - "/images/about/gallery-img-3.png"
@@ -39,22 +39,22 @@ gallery:
 
 ## our works
 features:
-  title: The three core work <br /> drive everything do
+  title: Tiga Hal Penting Dalam Kursus Kami
   button:
     label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: false
   features_list:
-    - title: Enjoyable
-      content: Courses on cybersecurity, blockchain, and Web 3 are enjoyable and informative, providing students with crucial skills for the modern digital era.
-    - title: Flexible 
-      content: Cybersecurity, blockchain, and Web 3 courses are flexible, accommodating various learning styles and schedules to help students acquire essential digital skills.
-    - title: Affordable
-      content: Cybersecurity, blockchain, and Web 3 courses are affordable, offering valuable education at a low cost and making vital digital skills accessible to many students.
+    - title: Menyenangkan
+      content: Kursus-kursus tentang keamanan siber, blockchain, dan Web 3 sangat menyenangkan dan informatif, memberikan para siswa keterampilan yang sangat penting untuk era digital modern.
+    - title: Fleksibel 
+      content: Kursus keamanan siber, blockchain, dan Web 3 bersifat fleksibel, mengakomodasi berbagai gaya belajar dan jadwal untuk membantu siswa memperoleh keterampilan digital yang penting.
+    - title: Terjangkau
+      content: Kursus keamanan siber, blockchain, dan Web 3 terjangkau, menawarkan pendidikan yang berharga dengan biaya rendah dan membuat keterampilan digital yang penting dapat diakses oleh banyak siswa.
 
 ## members
 members:
-  title: This is who we are
+  title: Inilah kami
   member_list:
     - name: Dhea Natalie
       field: Founder

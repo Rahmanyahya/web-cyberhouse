@@ -5,7 +5,7 @@ const { posts, sidebar_content } = Astro.props;
 
 <div class="career-single-sidebar mt-8 lg:col-4 lg:mt-0">
   {
-    sidebar_content.enable && (
+    sidebar_content?.enable && (
       <div class="mb-8 rounded-xl bg-white px-7 py-10 shadow-lg">
         <h5 class="h5">{sidebar_content.title}</h5>
         <p class="mt-4">{sidebar_content.content}</p>
@@ -62,7 +62,7 @@ const { posts, sidebar_content } = Astro.props;
               class="text-primary inline-flex items-center font-semibold"
               href={`/career/${item.slug}`}
             >
-              Read More
+              Selengkapnya
               <AiOutlineArrowRight className="ml-1.5 text-xl font-bold" />
             </a>
           </li>
