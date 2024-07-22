@@ -16,7 +16,7 @@ const careerIndex = (await getEntryBySlug<any, string>(
   'careers',
   '-index'
 )) as TCareerIndex;
-const { benifits, career, image } = careerIndex.data;
+const { benifits, career} = careerIndex.data;
 const categories = await getTaxonomy('careers', 'categories');
 const jobposts = await getSinglePage('careers');
 const page_data = {
@@ -42,7 +42,7 @@ import Image2 from '@/../public/images/career/Cyber1.webp';
           <center>
             <div class="w-[600px] h-[600px] flex justify-center object-center">
               <Image
-                src={image}
+                src={Image2}
                 alt=""
                 height={2000}
                 width={2000}
