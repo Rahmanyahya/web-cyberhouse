@@ -1,38 +1,37 @@
 ---
-import PageHeader from "@/components/PageHeader.astro";
-import Shape from "@/components/Shape.astro";
-import Base from "@/layouts/Base.astro";
-import Cta from "@/layouts/partials/Cta.astro";
-import { getEntryBySlug } from "astro:content";
-import ShapeImage from '../../../public/images/shape.png'
+import PageHeader from '@/components/PageHeader.astro';
+import Shape from '@/components/Shape.astro';
+import Base from '@/layouts/Base.astro';
+import Cta from '@/layouts/partials/Cta.astro';
+import { getEntryBySlug } from 'astro:content';
 // import CareerBenifits from "@/components/career/CareerBenifits.astro";
-import { Image } from "astro:assets";
-import CareerBenifits from "@/layouts/function-components/CareerBenifits";
-import JobPosts from "@/layouts/function-components/JobPosts";
-import { getSinglePage } from "@/lib/contentParser.astro";
-import { getTaxonomy } from "@/lib/taxonomyParser.astro";
-import type { TCareerIndex } from "@/types";
+import { Image } from 'astro:assets';
+import CareerBenifits from '@/layouts/function-components/CareerBenifits';
+import JobPosts from '@/layouts/function-components/JobPosts';
+import { getSinglePage } from '@/lib/contentParser.astro';
+import { getTaxonomy } from '@/lib/taxonomyParser.astro';
+import type { TCareerIndex } from '@/types';
 
 const careerIndex = (await getEntryBySlug<any, string>(
-  "careers",
-  "-index",
+  'careers',
+  '-index'
 )) as TCareerIndex;
 const { benifits, career, image } = careerIndex.data;
-const categories = await getTaxonomy("careers", "categories");
-const jobposts = await getSinglePage("careers");
+const categories = await getTaxonomy('careers', 'categories');
+const jobposts = await getSinglePage('careers');
 const page_data = {
   title: careerIndex.data.title,
   page_title: careerIndex.data.page_title,
   content: careerIndex.body,
 };
+
+import Image2 from '@/../public/images/career/Cyber1.webp';
 ---
 
 <Base
   title={careerIndex.data.title}
   meta_title={careerIndex.data.meta_title}
-  description={careerIndex.data.description}
-  image={careerIndex.data.image}
->
+  description={careerIndex.data.description}>
   <Shape />
 
   <section class="page-hero pb-14 pt-16">
@@ -40,13 +39,18 @@ const page_data = {
       <PageHeader page_data={page_data} />
       <div class="col-12 mt-14">
         <div class="relative">
-          <Image
-            src={image}
-            alt=""
-            height={532}
-            width={1044}
-            class="w-full rounded"
-          />
+          <center>
+            <div class="w-[600px] h-[600px] flex justify-center object-center">
+              <Image
+                src={image}
+                alt=""
+                height={2000}
+                width={2000}
+                class="w-full rounded"
+                sizes="1px"
+              />
+            </div>
+          </center>
           <Image
             class="lg:h-[150px] lg:w-[150px] absolute -left-[8%] bottom-[12%] z-[-1] h-20 w-20 -rotate-90 lg:-left-8 lg:bottom-4"
             src="/images/shape.png"
@@ -66,7 +70,10 @@ const page_data = {
     </div>
   </section>
   <!-- <CareerBenifits benifits={benifits} /> -->
-  <CareerBenifits benifits={benifits} client:load />
+  <CareerBenifits
+    benifits={benifits}
+    client:load
+  />
   <JobPosts
     client:load
     categories={categories}

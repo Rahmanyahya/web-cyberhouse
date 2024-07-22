@@ -18,7 +18,7 @@
   },
 
   "call_to_action": {
-    "title": "Komunitas Cyber Scurity & Teknologi Terbesar",
+    "title": "Komunitas Cyber Security & Teknologi Terbesar",
     "button": {
       "label": "Ikuti Kami",
       "link": "https://www.instagram.com/cyberhouse.id/"
@@ -32,11 +32,9 @@
   },
 
   "params": {
-    "email": "info@andromeda.io",
+    "email": "work.cyberhouse@gmail.com",
     "location": "Jakarta, Indonesia",
-    "phone": "+62-123-456-789",
-    "contact_form_action": "#",
-    "copyright": "Copyright © 2024 a theme by CyberHouse"
+    "copyright": "Copyright © Cyber House"
   },
 
   "metadata": {

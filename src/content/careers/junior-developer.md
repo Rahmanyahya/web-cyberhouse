@@ -1,6 +1,6 @@
 ---
 title: " Cyber Security Types of Attack"
-excerpt: Kursus ini menjelaskan metode serangan yang sering digunakan dalam Cyber Scurity.
+excerpt: Kursus ini menjelaskan metode serangan yang sering digunakan dalam Cyber Security.
 job_nature: "Full Time"
 location: San Francisco
 categories: ["developer"]

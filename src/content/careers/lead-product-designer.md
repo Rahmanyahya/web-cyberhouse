@@ -10,12 +10,12 @@ draft: false
 
 ### Perkenalan
 
-Network Scurity adalah praktik untuk melindungi integritas, kerahasiaan, dan ketersediaan data dan sumber daya dalam jaringan komputer dari ancaman dan serangan. Ini melibatkan serangkaian langkah dan teknologi yang dirancang untuk melindungi jaringan dari akses tidak sah, penyalahgunaan, dan gangguan. Beberapa aspek utama dari keamanan jaringan meliputi:
+Network Security adalah praktik untuk melindungi integritas, kerahasiaan, dan ketersediaan data dan sumber daya dalam jaringan komputer dari ancaman dan serangan. Ini melibatkan serangkaian langkah dan teknologi yang dirancang untuk melindungi jaringan dari akses tidak sah, penyalahgunaan, dan gangguan. Beberapa aspek utama dari keamanan jaringan meliputi:
 
 
 ### Kurikulum
 
-Aspek Network Scurity Yang Akan Dipelajari
+Aspek Network Security Yang Akan Dipelajari
 
 1. Firewall: Perangkat atau aplikasi yang memantau dan mengendalikan lalu lintas jaringan berdasarkan aturan keamanan yang ditetapkan.
 
@@ -43,7 +43,7 @@ Aspek Network Scurity Yang Akan Dipelajari
 
 - Snort: Sistem deteksi dan pencegahan intrusi (IDS/IPS) open-source yang digunakan untuk memantau dan menganalisis lalu lintas jaringan
 
-- Kali Linux: Distribusi Linux khusus untuk keamanan siber dan pengujian penetrasi, dilengkapi dengan berbagai alat keamanan.
+- Kali Linux: Distribusi Linux khusus untuk Cyber Security dan pengujian penetrasi, dilengkapi dengan berbagai alat keamanan.
 
 ### Persyaratan
 

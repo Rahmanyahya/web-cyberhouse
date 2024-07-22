@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Bootcamp Cyber Security,Blockchain and Web 3"
-  content: "Kuasai Keamanan Siber, Blockchain, dan Web 3.0 dalam 12 minggu dengan bootcamp intensif kami. Jadilah inovator teknologi masa depan!"
+  title: "Bootcamp Cyber Security, Blockchain dan Web 3"
+  content: "Kuasai Cyber Scurity, Blockchain, dan Web 3.0 dalam 12 minggu dengan bootcamp intensif kami. Jadilah inovator teknologi masa depan!"
   image: /images/banner-img.png
   button:
     label: Gabung Discord Kami
@@ -55,7 +55,7 @@ testimonial:
       avatar: "/images/users/user-5.png"
       organization: SMK 2 Bandung
       rating: four
-      content: Cyber House menyediakan pelatihan intensif yang sangat berguna untuk mengasah keterampilan Cyber Scurity.
+      content: Cyber House menyediakan pelatihan intensif yang sangat berguna untuk mengasah keterampilan Cyber Security.
     - author: Rizki Syatya
       avatar: "/images/users/user-6.png"
       organization: Mahasiswa UNS
@@ -85,7 +85,7 @@ testimonial:
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Kurikulum di Bottcamp Cyber House selalu diperbarui sesuai dengan perkembangan terbaru di bidang keamanan siber.
+      content: Kurikulum di Bottcamp Cyber House selalu diperbarui sesuai dengan perkembangan terbaru di bidang Cyber Scurity.
     - author: Raka Putra
       avatar: "/images/users/user-5.png"
       organization: meta limited
@@ -95,5 +95,5 @@ testimonial:
       avatar: "/images/users/user-5.png"
       organization: meta limited
       rating: five
-      content: Bottcamp Cyber House membantu peserta membangun jaringan profesional yang luas di industri keamanan siber.
+      content: Bottcamp Cyber House membantu peserta membangun jaringan profesional yang luas di industri Cyber Scurity.
 ---

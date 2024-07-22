@@ -1,6 +1,6 @@
 ---
-title: "Cyber Scurity Introduction"
-excerpt: Kursus ini memberikan pemahaman mendalam tentang dasar-dasar keamanan siber.
+title: "Cyber Security Introduction"
+excerpt: Kursus ini memberikan pemahaman mendalam tentang dasar-dasar Cyber Security.
 job_nature: "6 atau 12 bulan"
 location: Indonesia
 categories: ["beginner"]
@@ -9,7 +9,7 @@ draft: false
 
 ### Perkenalan
 
-Kursus "Cyber Security Introduction" ini dirancang untuk memberikan pemahaman mendalam tentang dasar-dasar keamanan siber. Anda akan mempelajari konsep utama seperti Triad CIA (kerahasiaan, integritas, ketersediaan), model lapisan OSI, manajemen akses identitas, dan tata kelola keamanan berdasarkan standar internasional seperti ISO27001, GDPR, HIPAA, OWASP, PCI DSS, dan NIST. Kursus ini juga mencakup dasar-dasar kriptografi dan hashing, serta latihan di laboratorium.
+Kursus "Cyber Security Introduction" ini dirancang untuk memberikan pemahaman mendalam tentang dasar-dasar Cyber Security. Anda akan mempelajari konsep utama seperti Triad CIA (kerahasiaan, integritas, ketersediaan), model lapisan OSI, manajemen akses identitas, dan tata kelola keamanan berdasarkan standar internasional seperti ISO27001, GDPR, HIPAA, OWASP, PCI DSS, dan NIST. Kursus ini juga mencakup dasar-dasar kriptografi dan hashing, serta latihan di laboratorium.
 
 ### Kurikulum
 Intro to Cyber Security
@@ -26,7 +26,7 @@ Intro to Cyber Security
 - Komputer atau laptop dengan koneksi internet yang stabil
 - Sistem operasi yang kompatibel (Windows, macOS, Linux)
 - Perangkat lunak virtualisasi (seperti VirtualBox atau VMware)
-- Alat keamanan siber seperti Wireshark, Burp Suite, dan alat dekripsi
+- Alat Cyber Security seperti Wireshark, Burp Suite, dan alat dekripsi
 - Text editor (seperti Visual Studio Code atau Sublime Text)
 - Browser web terbaru (Chrome, Firefox, atau Safari)
 
@@ -34,7 +34,7 @@ Intro to Cyber Security
 
 - Pengetahuan dasar tentang komputer dan jaringan
 - Kemampuan dasar dalam menggunakan sistem operasi
-- Minat yang kuat dalam keamanan siber
+- Minat yang kuat dalam Cyber Security
 - Komitmen waktu untuk menyelesaikan latihan dan kuis
 - Kemampuan berpikir analitis dan pemecahan masalah
 

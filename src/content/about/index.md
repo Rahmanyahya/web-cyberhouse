@@ -33,9 +33,9 @@ counter:
 gallery:
   title: Kami memulai dengan satu tujuan!
   images:
-    - "/images/about/gallery-img-1.png"
-    - "/images/about/gallery-img-3.png"
-    - "/images/about/gallery-img-2.png"
+    - "/images/about/Company-amico.svg"
+    - "/images/about/Company1.svg"
+    - "/images/about/Company2.svg"
 
 ## our works
 features:
@@ -46,11 +46,11 @@ features:
     enable: false
   features_list:
     - title: Menyenangkan
-      content: Kursus-kursus tentang keamanan siber, blockchain, dan Web 3 sangat menyenangkan dan informatif, memberikan para siswa keterampilan yang sangat penting untuk era digital modern.
+      content: Kursus-kursus tentang Cyber Security, blockchain, dan Web 3 sangat menyenangkan dan informatif, memberikan para siswa keterampilan yang sangat penting untuk era digital modern.
     - title: Fleksibel 
-      content: Kursus keamanan siber, blockchain, dan Web 3 bersifat fleksibel, mengakomodasi berbagai gaya belajar dan jadwal untuk membantu siswa memperoleh keterampilan digital yang penting.
+      content: Kursus Cyber Security, blockchain, dan Web 3 bersifat fleksibel, mengakomodasi berbagai gaya belajar dan jadwal untuk membantu siswa memperoleh keterampilan digital yang penting.
     - title: Terjangkau
-      content: Kursus keamanan siber, blockchain, dan Web 3 terjangkau, menawarkan pendidikan yang berharga dengan biaya rendah dan membuat keterampilan digital yang penting dapat diakses oleh banyak siswa.
+      content: Kursus Cyber Security, blockchain, dan Web 3 terjangkau, menawarkan pendidikan yang berharga dengan biaya rendah dan membuat keterampilan digital yang penting dapat diakses oleh banyak siswa.
 
 ## members
 members:
@@ -75,4 +75,4 @@ members:
       field: Human Resource and Graphic Designer
       image: "/images/users/adam.png"
 ---
- Program pelatihan intensif yang mempersiapkan peserta dalam keamanan siber, blockchain, dan web 3. Dengan kurikulum praktis, proyek nyata, dan bimbingan instruktur berpengalaman, peserta menguasai keterampilan teknis yang diperlukan di industri teknologi. Program ini juga menawarkan dukungan karir untuk membantu peserta segera mendapatkan pekerjaan.
+ Program pelatihan intensif yang mempersiapkan peserta dalam Cyber Security, blockchain, dan web 3. Dengan kurikulum praktis, proyek nyata, dan bimbingan instruktur berpengalaman, peserta menguasai keterampilan teknis yang diperlukan di industri teknologi. Program ini juga menawarkan dukungan karir untuk membantu peserta segera mendapatkan pekerjaan.

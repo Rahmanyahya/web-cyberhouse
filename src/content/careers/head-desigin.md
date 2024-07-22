@@ -1,6 +1,6 @@
 ---
 title: "Cyber Security Domain & Team Classification"
-excerpt: Kursus ini menjelaskan peran tim dalam klasifikasi domain Cyber Scurity.
+excerpt: Kursus ini menjelaskan peran tim dalam klasifikasi domain Cyber Security.
 job_nature: "Remote"
 location: Indonesia
 categories: ["developer"]
@@ -10,15 +10,15 @@ draft: false
 
 ### Perkenalan
 
-Cyber Security Domain & Team Classification merujuk pada berbagai area atau domain dalam keamanan siber dan peran serta tanggung jawab tim yang terlibat dalam masing-masing domain tersebut. Ini mencakup pembagian tugas dan spesialisasi yang diperlukan untuk melindungi sistem dan data.
+Cyber Security Domain & Team Classification merujuk pada berbagai area atau domain dalam Cyber Security dan peran serta tanggung jawab tim yang terlibat dalam masing-masing domain tersebut. Ini mencakup pembagian tugas dan spesialisasi yang diperlukan untuk melindungi sistem dan data.
 
 ### Kurikulum
 
-- Domain Keamanan Siber: Infrastruktur keamanan, keamanan aplikasi, keamanan data, dan keamanan operasional.
+- Domain Cyber Security: Infrastruktur keamanan, keamanan aplikasi, keamanan data, dan keamanan operasional.
 
 - Klasifikasi Tim Keamanan: Tim respon insiden, tim analisis ancaman, tim keamanan aplikasi, dan tim kepatuhan.
 
-- Peran dan Tanggung Jawab: Tugas spesifik dan fungsi masing-masing peran dalam tim keamanan siber.
+- Peran dan Tanggung Jawab: Tugas spesifik dan fungsi masing-masing peran dalam tim Cyber Security.
 
 ### Tools
 
@@ -30,7 +30,7 @@ Cyber Security Domain & Team Classification merujuk pada berbagai area atau doma
 
 ### Syarat
 
-- Pengetahuan Dasar Keamanan Siber: Memahami dasar-dasar keamanan siber dan konsep-konsep utamanya.
+- Pengetahuan Dasar Cyber Security: Memahami dasar-dasar Cyber Security dan konsep-konsep utamanya.
 
 - Keterampilan Manajemen Proyek: Kemampuan untuk mengelola dan mengkoordinasikan berbagai fungsi tim.
 
